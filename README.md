@@ -43,8 +43,8 @@ The program features a user-friendly menu-driven interface with username-passwor
 ### Steps to Run
 First clone the repository -
 ```
-git clone https://github.com/aritrar23/CS253_Lib_Management_System/
-cd CS253_Lib_Management_System
+git clone https://github.com/ARYAMANN7279/Library-Management-System
+cd Library-Management-System
 ```
 Now compile with g++ -
 ```
